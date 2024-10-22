@@ -1,0 +1,16 @@
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\EncriptarDesencriptar\EncriptarDesencriptar\bin\Debug\net8.0-windows\EncriptarDesencriptar.exe
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\EncriptarDesencriptar\EncriptarDesencriptar\bin\Debug\net8.0-windows\EncriptarDesencriptar.deps.json
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\EncriptarDesencriptar\EncriptarDesencriptar\bin\Debug\net8.0-windows\EncriptarDesencriptar.runtimeconfig.json
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\EncriptarDesencriptar\EncriptarDesencriptar\bin\Debug\net8.0-windows\EncriptarDesencriptar.dll
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\EncriptarDesencriptar\EncriptarDesencriptar\bin\Debug\net8.0-windows\EncriptarDesencriptar.pdb
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\EncriptarDesencriptar\EncriptarDesencriptar\obj\Debug\net8.0-windows\EncriptarDesencriptar.Form1.resources
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\EncriptarDesencriptar\EncriptarDesencriptar\obj\Debug\net8.0-windows\EncriptarDesencriptar.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\EncriptarDesencriptar\EncriptarDesencriptar\obj\Debug\net8.0-windows\EncriptarDesencriptar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\EncriptarDesencriptar\EncriptarDesencriptar\obj\Debug\net8.0-windows\EncriptarDesencriptar.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\EncriptarDesencriptar\EncriptarDesencriptar\obj\Debug\net8.0-windows\EncriptarDesencriptar.AssemblyInfo.cs
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\EncriptarDesencriptar\EncriptarDesencriptar\obj\Debug\net8.0-windows\EncriptarDesencriptar.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\EncriptarDesencriptar\EncriptarDesencriptar\obj\Debug\net8.0-windows\EncriptarDesencriptar.dll
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\EncriptarDesencriptar\EncriptarDesencriptar\obj\Debug\net8.0-windows\refint\EncriptarDesencriptar.dll
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\EncriptarDesencriptar\EncriptarDesencriptar\obj\Debug\net8.0-windows\EncriptarDesencriptar.pdb
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\EncriptarDesencriptar\EncriptarDesencriptar\obj\Debug\net8.0-windows\EncriptarDesencriptar.genruntimeconfig.cache
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\EncriptarDesencriptar\EncriptarDesencriptar\obj\Debug\net8.0-windows\ref\EncriptarDesencriptar.dll
